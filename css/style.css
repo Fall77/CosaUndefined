@@ -156,17 +156,17 @@ body{
 
 
 .archer{
-    background-image: url(./archer-fantasy-2.png);
+    background-image: url(../img/archer-fantasy-2.png);
     background-repeat: no-repeat;
     z-index: 99999;
 }
 .warrior{
-    background-image: url(./warrior-fantasy-2.png);
+    background-image: url(../img/warrior-fantasy-2.png);
     background-repeat: no-repeat;
     z-index: 99999;
 }
 .mage{
-    background-image: url(./elf-mage-fantasy-2.png);
+    background-image: url(../img/elf-mage-fantasy-2.png);
     background-repeat: no-repeat;
     z-index: 99999;
 }
